@@ -1,0 +1,62 @@
+
+<html>
+
+
+    <head>
+
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="emos.css">
+        <meta name="keywords" content="">
+
+    </head>
+
+
+
+    <body>
+    <div class="container">
+
+        <header>
+            <h1>CPU market</h1>
+        </header>
+
+        <main>
+
+            <section>
+                <h2>Описание товара</h2>
+
+        <div align="center"><p><h1>Процессор Intel Core i3-12100f OEM</h1></p></div>
+    <div align="center"><img src="https://torg-pc.ru/upload/iblock/008/xmnj7c45xvt14rq1by3m2mml5zkqj7gp/Intel-Core-i3-12100.jpg" width="500px"/></div>
+
+                <br>
+            
+                <h2>Характеристики товара</h2>
+                <p>Процессор на архитектуре х86 от компаниии Intel</p>
+                <br>
+            </section>
+
+
+            <section>
+                <h2>Подробное описание товара</h2>
+                 <div>Модель: Intel Core i3-12100</div>
+      <div>Сокет: LGA 1700</div>
+      <div>Код производителя: [CM8071504651012-SRL62]</div>
+      <div>Год релиза: 2022</div>
+      <div>Общее количество ядер: 4</div>
+      <div>Максимальное число потоков: 8</div>
+      <div>Базовая частота процессора: 3.3 ГГц</div>
+      <div>Максимальная частота в турбо режиме: 4.3 ГГц</div>
+      <div>епловыделение (TDP): 89 Вт</div>
+                <br>
+    
+                <h2>Цена 8900</h2>
+                    
+                    <br>
+            </section>
+        
+        </main>
+        <footer>
+            <hr>
+            <p>Все права защищены</p>
+        </footer>
+    </body>
+</html>
